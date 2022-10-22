@@ -1,4 +1,5 @@
 # katoolin3
+Katoolin3 is currently broken in the same way as the OG katoolin script.
 Katoolin3 brings all programs available in Kali Linux to Debian and Ubuntu.
 
 ### Description
